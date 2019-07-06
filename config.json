@@ -1,0 +1,5 @@
+{
+	"db": "mongodb://localhost:27017/lcx",
+	"port": 4600,
+	"ethereumNodeUrl": "http://localhost:8102"
+}
